@@ -18,7 +18,7 @@ A Python simulation of the SpaceX Falcon 9 rocket launch using real physics and 
 - Max speed: 3385 m/s
 - Max acceleration: 822 m/s2
 
-  ##Flight Graph
+  ## Flight Graph
   ![Falcon 9 Flight Simulation](rocket_graph.png)
 
 ## Technologies
