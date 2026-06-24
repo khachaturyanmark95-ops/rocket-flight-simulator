@@ -12,6 +12,7 @@ A Python simulation of the SpaceX Falcon 9 rocket launch using real physics and 
 -Acceleration = (Thrust / Mass) - Gravity
 -As fuel burns, mass decreases -> acceleration increases
 
+
 ##Results
 - Max height: 32 km
 - Max speed: 3385 m/s
