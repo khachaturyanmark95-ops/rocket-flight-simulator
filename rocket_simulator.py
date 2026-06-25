@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt 
 
-# Real Falcon 9 data 
 rocket_name = "Falcon 9"
 mass = 549000           #kg 
 thrust = 7607000        #Newton
@@ -8,13 +7,11 @@ fuel = 100              #percent
 gravity = 9.8           #m/s2
 
 
- #Lists
 time_list = []
 height_list = []
 speed_list = []
 acceleration_list = []
 
- #Starting values
 time = 0
 height = 0
 speed = 0
